@@ -1,0 +1,8 @@
+{
+  "parent": "cube_bottom_top",
+  "textures": {
+    "up": "energylib:block/capacitor_top",
+    "down": "energylib:block/capacitor_bottom",
+    "side": "energylib:block/capacitor_side"
+  }
+}

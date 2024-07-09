@@ -1,0 +1,6 @@
+item.@.battery.name=Battery
+item.@.handheld_multimeter.name=Handheld Multimeter
+
+tile.@.capacitor.name=Capacitor
+tile.@.creative_generator.name=Creative Generator
+tile.@.multimeter.name=Multimeter
